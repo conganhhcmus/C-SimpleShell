@@ -1,2 +1,3 @@
 language = "c"
+runatstart=1
 run = "gcc prog.c -w -L/usr/include -lreadline -o prog && ./prog"
