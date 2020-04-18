@@ -6,9 +6,9 @@ NOTE: Simple Shell implemented in C for operating system Unix (Ubuntu, Linux , .
 
 You can run and edit the project or contribute to them using __Gitpod.io__ or __Repl.it__, a free online development environment, with a single click.
 
-[![Run on Repl.it](https://repl.it/badge/github/conganhhcmus/Simple-Shell)](https://repl.it/github/conganhhcmus/Simple-Shell)
+[![Run on Repl.it](https://repl.it/badge/github/conganhhcmus/Simple-Shell)](https://repl.it/github/conganhhcmus/C-SimpleShell)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/conganhhcmus/Simple-Shell/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/conganhhcmus/C-SimpleShell/)
 
 
 ## Contact Me
